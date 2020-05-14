@@ -145,3 +145,6 @@ ggplot(data=plot_data3,aes(interval,steps))+geom_line()+facet_wrap(~day_type)
 
 <img src="PA1_template_files/figure-html/unnamed-chunk-7-1.png" style="display: block; margin: auto;" />
 Here we find that on average the weekends see higher activity, while some of the highest stepcounts occour on the weekdays.
+
+
+

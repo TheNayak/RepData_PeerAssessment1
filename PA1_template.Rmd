@@ -93,3 +93,6 @@ ggplot(data=plot_data3,aes(interval,steps))+geom_line()+facet_wrap(~day_type)
 
 ```
 Here we find that on average the weekends see higher activity, while some of the highest stepcounts occour on the weekdays.
+
+
+
